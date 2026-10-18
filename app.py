@@ -346,7 +346,7 @@ def _top_lines(items, n=8):
 def mega_manifest():
     return jsonify({
         "id": "com.megacatalog.malayalam",
-        "version": "1.1.4",
+        "version": "1.1.5",
         "name": "Malayalam Subtitle Movies by Nandu10",
         "description": "Movies, series & documentaries with Malayalam "
                        "subtitles — Msone + Movie Mirror + Team GOAT "
